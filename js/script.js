@@ -39,7 +39,7 @@ const renderPokemon = async (pokemon) => {
     } else {
         pokemonImage.style.display = 'none'
         pokemonNumber.innerHTML =''
-        pokemonName.innerHTML = 'Manda nude c:'
+        pokemonName.innerHTML = 'Não encontrado'
     }
     
 }
